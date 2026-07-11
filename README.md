@@ -1,154 +1,67 @@
-# Hi there, I'm **Aman** 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=🚀+B.Tech+IT+Student+at+University+of+Kalyani;💻+MERN+Stack+Developer+%26+Founder+of+Chatpie;🏆+GATE+CSE+Aspirant;🤖+ML+%26+AI+Enthusiast;⚡+Building+Scalable+Web+Applications" alt="Typing SVG" />
-</div>
+# Hi there, I'm **Aman Kumar** 👋
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/amankrs2005?logo=github&style=for-the-badge&color=00D9FF&logoColor=white)](https://github.com/amankrs2005?tab=followers)
-  [![Profile views](https://komarev.com/ghpvc/?username=amankrs2005&color=00D9FF&style=for-the-badge)](https://github.com/amankrs2005)
+  # ⚡ AMAN KUMAR ⚡
+  ### 🚀 Software Engineering Intern @ Reasoned Trading • Full-Stack Engineer • GATE CSE Aspirant
   
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=850&height=50&lines=💻+Software+Engineering+Intern+@+Reasoned+Trading;🎓+B.Tech+IT+at+University+of+Kalyani;🤖+Building+GenZ+Fintech+%26+Vernacular+AI;🏆+Cracking+GATE+CSE;⚡+Engineering+Scalable+Backends+with+Go+%26+Node" alt="Typing SVG" />
 
----
-
-<div align="center">
-  
-  ### 🎓 B.Tech Candidate • University of Kalyani | 💻 MERN Stack Developer | 🤖 ML Enthusiast
-  
-  > *"The best way to predict the future is to invent it."* – Alan Kay
-  
-  **Passionate about Web Development, Artificial Intelligence, and Data Structures**
-  
-  Building full-stack web applications | Preparing for GATE CSE | Scaling startup ideas
-  
+  <p align="center">
+    <a href="https://github.com/amanaryan2005"><img src="https://img.shields.io/github/followers/amankrs2005?logo=github&style=for-the-badge&color=00D9FF&logoColor=white" alt="GitHub followers"/></a>
+    <a href="https://linkedin.com/in/amankrs2005/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:amankrs2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 </div>
 
 ---
 
-## 🌐 Connect & Follow
+### 🌌 About Me
 
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-amankrs2005-000?style=for-the-badge&logo=github&logoColor=00D9FF&color=0D1117)](https://github.com/amankrs2005)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-amankrs2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankrs2005/)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankrs2005@gmail.com)
-  
-</div>
+> "The best way to predict the future is to invent it." – Alan Kay
+
+I am a software engineer focused on building robust full-stack applications, scalable backend systems, and modern AI platforms. Currently, I am expanding my skills across Go, TypeScript, and microservice orchestration, balancing core product development with rigorous data structures preparation for the GATE CSE.
 
 ---
 
-
-## 🛠️ Tech Stack & Expertise
-
-### 💻 **Languages & Core**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript,html,css" alt="Languages"/>
-</div>
-
-### 🌐 **Web & Backend**
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</div>
-
-### 🗄️ **Databases & Tools**
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### 🚀 **Full-Stack & Web Development**
+### 🛠️ Tech Ecosystem
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🛠️ Stack |
-|:---|:---|:---|
-| **Chatpie** | Dating application startup focused on seamless connections. | MERN Stack |
-| **🔗 Backend API** | Full-stack web application serving a REST API with GitHub OAuth integration and interactive collaboration dashboards. | REST API, Express, React, Redis, Celery |
-| **📱 Applier Frontend** | Dynamic, component-based single-page application engineered with a responsive UI and optimized rendering. | React, React-dom |
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=go,ts,js,python,c,postgres,html,css" alt="Languages" /> |
+| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" alt="Frameworks" /> |
+| **DevOps & Cloud Tools** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel,vscode" alt="Tools" /> |
 
 </div>
 
 ---
 
-### 🤖 **Machine Learning & AI**
+### 🎯 Featured Shipments
 
-<div align="center">
+#### 🌐 Web Applications & Systems
+* **🗣️ Vernacular AI Platform** `React` `TypeScript` `Vite` `Shadcn UI`
+  > A multilingual AI web application integrating Google Generative AI API for global natural language understanding, managed using Zustand.
+* **🔗 Backend API System** `Express.js` `Node.js` `React` `Redis` `Celery`
+  > A scalable RESTful API with secure GitHub OAuth integrations, interactive collaboration analytics dashboards, and asynchronous workers.
 
-| 🎯 Project | 📝 Description | 🛠️ Stack |
-|:---|:---|:---|
-| **🧠 Gemini Bot** | AI-powered chatbot leveraging the Gemini API with real-time communication and an interactive visual interface. | Python, FastAPI, Streamlit |
-
-</div>
-
----
-
-## 💼 Experience & Internships
-
-<div align="center">
-
-| Role | Company | Details |
-|:---|:---|:---|
-| **Frontend Engineer Intern** | Yovare | Assisted in building full-stack applications and developed responsive UIs with RESTful API integrations. |
-| **Applied Data Science Lab** | Worldquant University | Created interactive dashboards for statistical experiments and built APIs for insights. |
-| **Website Developer Intern** | Dovoo Edutech | Crafted responsive web applications and implemented dynamic interfaces with scroll-based animations. |
-
-</div>
+#### 🤖 Artificial Intelligence
+* **🧠 Gemini Bot** `Python` `FastAPI` `Streamlit`
+  > An AI chatbot running a low-latency FastAPI backend system wired into a Streamlit graphical interface enabling real-time communication.
 
 ---
 
-## 🏆 Achievements & Recognition
+### 💼 Professional Journey
 
-<div align="center">
+```text
+ 🕒 June 2026 - Present  🚀 Software Engineering Intern @ Reasoned Trading
+                         ├── Building a GenZ Trading Startup and highly responsive web architectures.
+                         └── Implementing secure backend infrastructure using Go and PostgreSQL.
+                      
+ 🕒 June 2025 - Aug 2025 🌐 Frontend Engineer Intern @ Yovare
+                         ├── Created responsive web interfaces with React and styled components.
+                         └── Supported MERN backend layers by designing schema models and CRUD processes.
 
-| Achievement | Details |
-|:---|:---|
-| 🎯 **Career Tech Academy** | Shortlisted for the PayPal Career Tech Academy program |
-| 🎓 **B.Tech IT** | Pursuing Information Technology at University of Kalyani |
-| 📜 **Certifications** | OCI DevOps Professional (2025), Product Management: Basic Certification (2025) |
-| 📜 **Certifications** | Product Led Certification (2025), Business Analyst Foundation (2025) |
-
-</div>
-
----
-
-## 🎯 Current Focus & Roadmap
-
-<div align="center">
-
-🧠 **Short Term**
-- Dedicated preparation for the GATE CSE exam
-- Deepening knowledge in C/C++ data structures and numerical methods
-- Expanding AI/ML fundamentals
-
-⚡ **Medium Term**
-- Growing and scaling my startup, Chatpie
-- Building more complex MERN stack applications
-- Completing advanced product management certifications
-
-</div>
-
----
-
-## 📞 Contact & Social Links
-
-<div align="center">
-
-| Platform | Link |
-|:---|:---|
-| 💼 **LinkedIn** | [amankrs2005](https://linkedin.com/in/amankrs2005/) |
-| 📧 **Email** | [amankrs2005@gmail.com](mailto:amankrs2005@gmail.com) |
-| 💻 **GitHub** | [amankrs2005](https://github.com/amankrs2005) |
-
-</div>
+ 🕒 May 2025 - June 2025 💻 Website Developer Intern @ Dovoo Edutech
+                         └── Crafted dynamic interfaces with media queries and custom viewport scroll-animations.
