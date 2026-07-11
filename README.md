@@ -1,194 +1,154 @@
-<!-- Super Dev Animated GitHub Profile - Aman Kumar -->
-
-<h1 align="center">Hi, I'm <span style="color:#00D9FF;">Aman Kumar</span> 👋</h1>
+# Hi there, I'm **Aman** 👋
 
 <div align="center">
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=B.Tech+IT+Student+%40+University+of+Kalyani;MERN+Stack+Developer+%7C+Founder+of+Chatlie;GATE+CSE+Aspirant;ML+%26+AI+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=🚀+B.Tech+IT+Student+at+University+of+Kalyani;💻+MERN+Stack+Developer+%26+Founder+of+Chatpie;🏆+GATE+CSE+Aspirant;🤖+ML+%26+AI+Enthusiast;⚡+Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
-<br/>
-
 <div align="center">
-  <!-- Optional banner: replace with your own image/GIF later -->
-  <!-- Example if you upload banner.gif in this repo:
-  <img src="https://raw.githubusercontent.com/amankrs2005/amankrs2005/main/banner.gif" alt="Cyber Banner" width="900" />
-  -->
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Social + Stats Badges -->
-  <a href="https://github.com/amankrs2005?tab=followers">
-    <img src="https://img.shields.io/github/followers/amankrs2005?logo=github&style=for-the-badge&color=00D9FF&logoColor=white" />
-  </a>
-  <a href="https://github.com/amankrs2005">
-    <img src="https://komarev.com/ghpvc/?username=amankrs2005&color=00D9FF&style=for-the-badge" />
-  </a>
-  <a href="mailto:amankrs2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/amankrs2005/">
-    <img src="https://img.shields.io/badge/LinkedIn-amankrs2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/amankrs2005?logo=github&style=for-the-badge&color=00D9FF&logoColor=white)](https://github.com/amankrs2005?tab=followers)
+  [![Profile views](https://komarev.com/ghpvc/?username=amankrs2005&color=00D9FF&style=for-the-badge)](https://github.com/amankrs2005)
+  
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```ts
-const aman: Developer = {
-  role: "B.Tech IT Student @ University of Kalyani",
-  titles: [
-    "MERN Stack Developer",
-    "Founder of Chatlie",
-    "GATE CSE Aspirant",
-    "ML & AI Enthusiast"
-  ],
-  currentlyWorkingOn: ["Scalable full‑stack apps", "Chatlie startup", "GATE CSE prep"],
-  loveToBuild: ["Developer‑first tools", "Real‑time apps", "AI‑powered products"],
-};
-```
-
-> *"The best way to predict the future is to invent it."* – Alan Kay  
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages & Core
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css" />
-</div>
-
-### 🌐 Web, Backend & APIs
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,fastapi" />
-</div>
-
-### 🗄 Databases, DevOps & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,linux" />
+  
+  ### 🎓 B.Tech Candidate • University of Kalyani | 💻 MERN Stack Developer | 🤖 ML Enthusiast
+  
+  > *"The best way to predict the future is to invent it."* – Alan Kay
+  
+  **Passionate about Web Development, Artificial Intelligence, and Data Structures**
+  
+  Building full-stack web applications | Preparing for GATE CSE | Scaling startup ideas
+  
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🌐 Connect & Follow
 
 <div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amankrs2005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amankrs2005&theme=radical&hide_border=true" />
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankrs2005&layout=compact&theme=radical&hide_border=true" />
-
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-amankrs2005-000?style=for-the-badge&logo=github&logoColor=00D9FF&color=0D1117)](https://github.com/amankrs2005)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-amankrs2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankrs2005/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankrs2005@gmail.com)
+  
 </div>
 
 ---
 
-## 🚀 Featured Projects
+
+## 🛠️ Tech Stack & Expertise
+
+### 💻 **Languages & Core**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript,html,css" alt="Languages"/>
+</div>
+
+### 🌐 **Web & Backend**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</div>
+
+### 🗄️ **Databases & Tools**
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🚀 **Full-Stack & Web Development**
 
 <div align="center">
 
 | 🎯 Project | 📝 Description | 🛠️ Stack |
 |:---|:---|:---|
-| **Chatlie** | Dating application startup focused on seamless, meaningful connections. | MERN Stack, Realtime, Cloud |
-| **Backend API** | Production‑ready REST API with GitHub OAuth, job queues and dashboards. | Node, Express, Redis, Celery, React |
-| **Applier Frontend** | High‑performance SPA with component‑driven architecture and responsive UI. | React, React‑Router |
+| **Chatpie** | Dating application startup focused on seamless connections. | MERN Stack |
+| **🔗 Backend API** | Full-stack web application serving a REST API with GitHub OAuth integration and interactive collaboration dashboards. | REST API, Express, React, Redis, Celery |
+| **📱 Applier Frontend** | Dynamic, component-based single-page application engineered with a responsive UI and optimized rendering. | React, React-dom |
 
 </div>
 
 ---
 
-## 🤖 Machine Learning & AI
+### 🤖 **Machine Learning & AI**
 
 <div align="center">
 
 | 🎯 Project | 📝 Description | 🛠️ Stack |
 |:---|:---|:---|
-| **Gemini Bot** | AI chatbot using Gemini API with real‑time streaming and visual UI. | Python, FastAPI, Streamlit |
+| **🧠 Gemini Bot** | AI-powered chatbot leveraging the Gemini API with real-time communication and an interactive visual interface. | Python, FastAPI, Streamlit |
 
 </div>
 
 ---
 
-## 💼 Experience
+## 💼 Experience & Internships
 
 <div align="center">
 
 | Role | Company | Details |
 |:---|:---|:---|
-| **Frontend Engineer Intern** | Yovare | Built full‑stack features and responsive UIs with RESTful APIs. |
-| **Applied Data Science Lab** | WorldQuant University | Designed interactive analytics dashboards and API‑based insights. |
-| **Website Developer Intern** | Dovoo Edutech | Developed modern landing pages and scroll‑based animated experiences. |
+| **Frontend Engineer Intern** | Yovare | Assisted in building full-stack applications and developed responsive UIs with RESTful API integrations. |
+| **Applied Data Science Lab** | Worldquant University | Created interactive dashboards for statistical experiments and built APIs for insights. |
+| **Website Developer Intern** | Dovoo Edutech | Crafted responsive web applications and implemented dynamic interfaces with scroll-based animations. |
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
 | Achievement | Details |
 |:---|:---|
-| 🎯 **Career Tech Academy** | Shortlisted for PayPal Career Tech Academy |
-| 🎓 **B.Tech IT** | Pursuing Information Technology @ University of Kalyani |
-| 📜 **Certifications** | OCI DevOps Professional (2025), Product Management Basics (2025) |
-| 📜 **Certifications** | Product‑Led Certification (2025), Business Analyst Foundation (2025) |
+| 🎯 **Career Tech Academy** | Shortlisted for the PayPal Career Tech Academy program |
+| 🎓 **B.Tech IT** | Pursuing Information Technology at University of Kalyani |
+| 📜 **Certifications** | OCI DevOps Professional (2025), Product Management: Basic Certification (2025) |
+| 📜 **Certifications** | Product Led Certification (2025), Business Analyst Foundation (2025) |
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Roadmap
 
 <div align="center">
 
-### 🧠 Short Term
-- GATE CSE preparation (DSA, OS, CN, DBMS)  
-- Deepening C/C++ data structures and numerical methods  
-- Expanding AI/ML fundamentals  
+🧠 **Short Term**
+- Dedicated preparation for the GATE CSE exam
+- Deepening knowledge in C/C++ data structures and numerical methods
+- Expanding AI/ML fundamentals
 
-### ⚡ Medium Term
-- Scaling Chatlie from MVP to production users  
-- Building complex MERN stack applications  
-- Advancing product management & growth skills  
+⚡ **Medium Term**
+- Growing and scaling my startup, Chatpie
+- Building more complex MERN stack applications
+- Completing advanced product management certifications
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake (optional)
-
-<!--
-To enable this, you must set up a GitHub Action that generates
-`github-contribution-grid-snake.svg` in the `output` branch.
-Once done, uncomment the block below.
--->
-
-<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amankrs2005/amankrs2005/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
--->
-
----
-
-## 🌐 Connect With Me
+## 📞 Contact & Social Links
 
 <div align="center">
 
 | Platform | Link |
 |:---|:---|
-| 💼 **LinkedIn** | [linkedin.com/in/amankrs2005](https://linkedin.com/in/amankrs2005/) |
+| 💼 **LinkedIn** | [amankrs2005](https://linkedin.com/in/amankrs2005/) |
 | 📧 **Email** | [amankrs2005@gmail.com](mailto:amankrs2005@gmail.com) |
-| 💻 **GitHub** | [github.com/amankrs2005](https://github.com/amankrs2005) |
+| 💻 **GitHub** | [amankrs2005](https://github.com/amankrs2005) |
 
 </div>
