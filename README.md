@@ -1,215 +1,220 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">
-Software Engineer • Backend Developer • AI Engineer
-</h3>
+<div align="center">
 
-<p align="center">
-Building scalable backend systems, AI-powered products, RAG pipelines, and cloud-native applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Developer;AI+Engineer;RAG+%7C+LangChain+%7C+LlamaIndex;Go+%7C+Python+%7C+TypeScript;Building+Scalable+AI+Products" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-38BDF8?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Specialty-RAG%20Pipelines-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack-Go%20%7C%20Python%20%7C%20TS-0EA5E9?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;AI+Engineer;RAG+%26+LangChain+Developer;Go+Developer;TypeScript+Developer;Building+Scalable+AI+Products" />
-</p>
+</div>
 
 ---
 
-# 💫 About Me
+<div align="center">
 
-🚀 Software Engineer passionate about building production-grade applications and intelligent AI systems.
+## 🚀 About Me
 
-💻 Specialized in
+</div>
 
-- Backend Engineering
-- AI Engineering & Agents
-- RAG (Retrieval-Augmented Generation)
-- Distributed Systems
-- Cloud Infrastructure
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-🌱 Currently Learning & Exploring
+### 💡 What I Do
+- 🔧 **Backend Engineering** — scalable APIs & microservices
+- 🤖 **AI Engineering** — agents, RAG, LLM orchestration
+- ☁️ **Cloud Infrastructure** — Docker, Kubernetes, AWS
+- 📦 **Distributed Systems** — event-driven, low-latency
 
-- Go
-- Kubernetes
-- Microservices
-- **AI Agents, LangChain & LlamaIndex**
-- **Advanced RAG & Vector Databases**
-- System Design
+</td>
+<td width="50%" valign="top">
 
-🎯 Current Goals
+### 🌱 Currently Exploring
+- 🧠 **RAG & Vector Databases**
+- 🔗 **LangChain & LlamaIndex**
+- ⚡ **Go & Kubernetes**
+- 🏗️ **System Design**
 
-- Build AI SaaS Products
-- **Master RAG & LLM Orchestration (LangChain / LlamaIndex)**
-- Master Backend Engineering
-- Crack GATE CSE
-- Contribute to Open Source
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 2026 Goals
+<img src="https://img.shields.io/badge/Build_AI_SaaS-38BDF8?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Master_RAG_%26_LangChain-8B5CF6?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Master_Backend-0EA5E9?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Crack_GATE_CSE-F59E0B?style=flat-square&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_Source-22C55E?style=flat-square&logo=github&logoColor=white"/>
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
+## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/amankrs2005">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:amankrs2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/amanaryan2005">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Tech Stack
+<div align="center">
 
-## Languages
+## ⚡ Tech Stack
 
-<p>
+</div>
 
-<img src="https://skillicons.dev/icons?i=go,ts,js,python,c,cpp"/>
+<div align="center">
 
-</p>
+### 🧑‍💻 Languages
+<img src="https://skillicons.dev/icons?i=go,ts,js,python,c,cpp" />
 
-## Frontend
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
 
-<p>
+### 🛠️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux"/>
+</div>
 
-</p>
+<div align="center">
 
-## Backend & AI / LLM
+### 🧠 AI / LLM Engineering
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-<!-- Custom AI Badges -->
+<table>
+<tr>
+<td align="center" width="120">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</td>
+<td align="center" width="120">
 <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
+</td>
+<td align="center" width="120">
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+</td>
+<td align="center" width="120">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</td>
+<td align="center" width="120">
 <img src="https://img.shields.io/badge/CrewAI-4B0082?style=for-the-badge&logo=probot&logoColor=white"/>
+</td>
+</tr>
+</table>
 
-</p>
+</div>
 
-## Database & Vector Stores
+<div align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis"/>
-
-<!-- Vector DB Badges -->
+### 🗄️ Databases & Vector Stores
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qdrant-0284C7?style=for-the-badge&logo=qdrant&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FFB000?style=for-the-badge&logo=chroma&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FFB000?style=for-the-badge&logo=chroma&logoColor=black"/>
 
-</p>
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,vercel,netlify" />
 
-## DevOps & Cloud
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=postman,jira,vscode" />
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,vercel,netlify"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postman,jira,vscode"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 GitHub Analytics
+<div align="center">
 
-<p align="center">
+## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amanaryan2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amanaryan2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaryan2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaryan2005&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
 
-</p>
+<img src="https://streak-stats.demolab.com?user=amanaryan2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=8B5CF6&fire=F59E0B&currStreakLabel=38BDF8" />
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=amanaryan2005&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=amanaryan2005&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amanaryan2005&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanaryan2005&theme=tokyo-night&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Technologies
+<div align="center">
 
-<p align="center">
+## 📊 Contribution Graph
 
-<!-- Core Backend & AI Focus -->
-<img src="https://skillicons.dev/icons?i=go"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=ts"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanaryan2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=F59E0B" width="100%"/>
 
-</p>
+</div>
 
-<p align="center">
-<!-- AI Tooling -->
+---
+
+<div align="center">
+
+## 🚀 Featured Stack
+
+<img src="https://skillicons.dev/icons?i=go,python,ts,docker,kubernetes,aws" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Agents-FF4500?style=for-the-badge&logo=probot&logoColor=white"/>
-</p>
+
+</div>
 
 ---
 
-# ✨ Random Dev Quote
+<div align="center">
 
-<p align="center">
+## ✨ Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=amanaryan2005&style=for-the-badge&color=0e75b6"/>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=amanaryan2005&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
+
+<br/><br/>
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Building scalable software today for the intelligent systems of tomorrow."*
+<i>"Building scalable software today for the intelligent systems of tomorrow."</i>
 
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
