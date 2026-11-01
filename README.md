@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:F59E0B&height=220&section=header&text=Aman%20Kumar&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Product%20Thinker&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=%3E+Initializing+profile...;%3E+Role%3A+Software+Engineer+%7C+AI+Engineer;%3E+Stack%3A+Go+%7C+Python+%7C+TypeScript+%7C+FastAPI;%3E+AI%3A+RAG+%7C+LangChain+%7C+LlamaIndex+%7C+Claude;%3E+Mindset%3A+Product+Management+%7C+Product-Led+Growth;%3E+Status%3A+Building+intelligent+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=%3E+Initializing+profile...;%3E+Role%3A+Software+Engineer+%7C+AI+Engineer;%3E+Stack%3A+Go+%7C+Python+%7C+TypeScript+%7C+FastAPI;%3E+AI%3A+Autonomous+Agents+%7C+RAG+%7C+Distributed+Systems;%3E+Mindset%3A+Product-Led+Growth+%7C+High-Scale+Architecture;%3E+Status%3A+Building+production-grade+intelligent+systems." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -44,19 +44,19 @@
 <tr>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/FOCUS-AI_Engineering-38BDF8?style=for-the-badge&logo=openai&logoColor=white"/>
-<br/><sub><b>RAG & LLM Agents</b></sub>
+<br/><sub><b>RAG & Multi-Agent Swarms</b></sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/SPECIALTY-Backend_Dev-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<br/><sub><b>FastAPI · Go · Python</b></sub>
+<br/><sub><b>FastAPI · Go · PostgreSQL</b></sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/EDGE-Product_Sense-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
-<br/><sub><b>Product-Led Growth</b></sub>
+<br/><sub><b>Product-Led Growth & UX</b></sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/CLOUD-DevOps-22C55E?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<br/><sub><b>Docker · K8s · AWS</b></sub>
+<br/><sub><b>Docker · K8s · CI/CD</b></sub>
 </td>
 </tr>
 </table>
@@ -82,53 +82,41 @@
 <table align="center" width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ```yaml
-engineer:
+developer:
   name: Aman Kumar
-  roles:
-    - Software Engineer
-    - AI Engineer
-    - Product Thinker
-  backend:
-    - FastAPI
-    - Go
-    - Node.js
-  ai_stack:
-    - RAG
-    - LangChain
-    - LlamaIndex
-    - Claude AI
-    - OpenAI
-  cloud:
-    - Docker
-    - Kubernetes
-    - AWS
-  product:
-    - Roadmapping
-    - User Research
-    - Product-Led Growth
+  title: Software Engineer & AI Architect
+  mindset: Product-First Engineering
+  systems:
+    - High-Throughput Microservices
+    - Event-Driven Pipelines
+    - Multi-Agent Orchestration
+  core_stack:
+    backend: [Go, FastAPI, Node.js, PostgreSQL, Redis]
+    ai_infra: [CrewAI, LangChain, Qdrant, Pinecone]
+    devops: [Docker, Kubernetes, AWS, GitHub Actions]
+    frontend: [React, TypeScript, Tailwind CSS]
 ```
 
 </td>
 
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-🧭 What I Do
+### 🧭 What I Do
 
-· 🔧 Backend Engineering — FastAPI, Go microservices
-· 🤖 AI Engineering — RAG pipelines, LLM agents, Claude AI
-· 📊 Product Management — roadmaps & user-centric design
-· ☁️ Cloud-Native — Docker, Kubernetes, AWS
-· ⚡ Distributed Systems — event-driven, low-latency
+* ⚡ **High-Throughput Backends & Microservices**  
+  Architecting fault-tolerant, low-latency APIs and execution engines using **Go**, **FastAPI**, and **PostgreSQL** with caching layers powered by **Redis**.
 
-🌱 Exploring
+* 🤖 **Autonomous AI Agents & Production RAG**  
+  Building intelligent agent meshes and contextual RAG pipelines with **LangChain**, **CrewAI**, and vector storage (**Qdrant / ChromaDB**) to automate complex multi-step workflows.
 
-· 🧠 Advanced RAG + Vector DBs
-· 🔗 LangChain · LlamaIndex
-· 🦾 Claude AI (Anthropic)
-· 🏗️ System Design
+* ☁️ **Cloud-Native Infrastructure & DevOps**  
+  Containerizing distributed applications via **Docker**, configuring **Kubernetes** topologies, and establishing robust automated CI/CD pipelines.
+
+* 💡 **Product-Led Engineering**  
+  Bridging rigorous engineering with intuitive product metrics—turning technical capabilities into scalable, sticky SaaS solutions with rapid iteration cycles.
 
 </td>
 
@@ -152,24 +140,24 @@ engineer:
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/1-Build_AI_SaaS-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/1-Build%20AI%20SaaS-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/2-Master_RAG_%26_LangChain-8B5CF6?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/2-Master%20RAG%20%26%20Agents-8B5CF6?style=for-the-badge&logo=langchain&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/3-Master_Backend-FastAPI-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/3-Scale%20Distributed%20FastAPI-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/4-Product_Management-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
+<img src="https://img.shields.io/badge/4-Product--Led%20Growth-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/5-Crack_GATE_CSE-22C55E?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/5-Advanced%20System%20Design-22C55E?style=for-the-badge&logo=academia&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/6-Open_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/6-High--Impact%20Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -192,25 +180,25 @@ engineer:
 
 <table width="100%">
 <tr>
-<td align="center" width="30%">
+<td align="center" width="33%">
 
-🧑‍💻 Languages
+🧑‍💻 **Languages**
 
 <img src="https://skillicons.dev/icons?i=go,ts,js,python,c,cpp" />
 
 </td>
-<td align="center" width="30%">
+<td align="center" width="33%">
 
-🎨 Frontend
+🎨 **Frontend & UI**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
 
 </td>
-<td align="center" width="30%">
+<td align="center" width="33%">
 
-🛠️ Backend
+🛠️ **Backend & Services**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 
 </td>
 </tr>
@@ -222,34 +210,34 @@ engineer:
 
 <div align="center">
 
-🧠 AI / LLM Engineering
+🧠 **AI / Autonomous Agent Stack**
 
 <table>
 <tr>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<br/><sub><b>Chains & Agents</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
-<br/><sub><b>Indexing</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-<br/><sub><b>Retrieval</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<br/><sub><b>Anthropic</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<br/><sub><b>GPT Models</b></sub>
-</td>
-<td align="center" width="110">
+<td align="center" width="115">
 <img src="https://img.shields.io/badge/CrewAI-4B0082?style=for-the-badge&logo=probot&logoColor=white"/>
 <br/><sub><b>Multi-Agent</b></sub>
 </td>
+<td align="center" width="115">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<br/><sub><b>Orchestration</b></sub>
+</td>
+<td align="center" width="115">
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
+<br/><sub><b>Data Frameworks</b></sub>
+</td>
+<td align="center" width="115">
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+<br/><sub><b>Dense Retrieval</b></sub>
+</td>
+<td align="center" width="115">
+<img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<br/><sub><b>Anthropic</b></sub>
+</td>
+<td align="center" width="115">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<br/><sub><b>LLM Pipelines</b></sub>
+</td>
 </tr>
 </table>
 
@@ -259,21 +247,21 @@ engineer:
 
 <div align="center">
 
-📊 Product Management
+📊 **Product & Architecture**
 
 <table>
 <tr>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Product_Led_Growth-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/Product--Led%20Growth-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
 </td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Agile_%26_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/Distributed%20Systems-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Roadmapping-8B5CF6?style=for-the-badge&logo=trello&logoColor=white"/>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/API%20Architecture-8B5CF6?style=for-the-badge&logo=postman&logoColor=white"/>
 </td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/User_Research-38BDF8?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/User%20Telemetry-38BDF8?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -284,14 +272,14 @@ engineer:
 
 <div align="center">
 
-🗄️ Data Layer &nbsp;•&nbsp; ☁️ Cloud &nbsp;•&nbsp; 🔧 Tools
+🗄️ **Data & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,kubernetes,aws,githubactions,git,vercel,postman,jira,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,kubernetes,aws,githubactions,git,vercel,vscode" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qdrant-0284C7?style=for-the-badge&logo=qdrant&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChromaDB-FFB000?style=for-the-badge&logo=chroma&logoColor=black"/>
 
 </div>
@@ -342,30 +330,6 @@ engineer:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FEATURED STACK                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="30"/>
-  Featured Stack
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="30"/>
-</h2>
-
-<img src="https://skillicons.dev/icons?i=go,python,fastapi,docker,kubernetes,aws" />
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Product_Management-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       QUOTE & VIEWS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -378,6 +342,8 @@ engineer:
 </h2>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=amanaryan2005&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 
@@ -393,7 +359,7 @@ engineer:
 
 ⭐ Thanks for visiting my profile!
 
-<i>"Building scalable software today for the intelligent systems of tomorrow."</i>
+<i>"Architecting resilient systems today for the autonomous intelligence of tomorrow."</i>
 
 </div>
 
