@@ -4,38 +4,40 @@ Software Engineer • Backend Developer • AI Engineer
 </h3>
 
 <p align="center">
-Building scalable backend systems, AI-powered products, and cloud-native applications.
+Building scalable backend systems, AI-powered products, RAG pipelines, and cloud-native applications.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;AI+Engineer;Go+Developer;TypeScript+Developer;Building+Scalable+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;AI+Engineer;RAG+%26+LangChain+Developer;Go+Developer;TypeScript+Developer;Building+Scalable+AI+Products" />
 </p>
 
 ---
 
 # 💫 About Me
 
-🚀 Software Engineer passionate about building production-grade applications.
+🚀 Software Engineer passionate about building production-grade applications and intelligent AI systems.
 
 💻 Specialized in
 
 - Backend Engineering
-- AI Engineering
+- AI Engineering & Agents
+- RAG (Retrieval-Augmented Generation)
 - Distributed Systems
 - Cloud Infrastructure
 
-🌱 Currently Learning
+🌱 Currently Learning & Exploring
 
 - Go
 - Kubernetes
 - Microservices
-- AI Agents
-- RAG
+- **AI Agents, LangChain & LlamaIndex**
+- **Advanced RAG & Vector Databases**
 - System Design
 
 🎯 Current Goals
 
 - Build AI SaaS Products
+- **Master RAG & LLM Orchestration (LangChain / LlamaIndex)**
 - Master Backend Engineering
 - Crack GATE CSE
 - Contribute to Open Source
@@ -76,19 +78,31 @@ Building scalable backend systems, AI-powered products, and cloud-native applica
 
 </p>
 
-## Backend
+## Backend & AI / LLM
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 
+<!-- Custom AI Badges -->
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-4B0082?style=for-the-badge&logo=probot&logoColor=white"/>
+
 </p>
 
-## Database
+## Database & Vector Stores
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis"/>
+
+<!-- Vector DB Badges -->
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-0284C7?style=for-the-badge&logo=qdrant&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FFB000?style=for-the-badge&logo=chroma&logoColor=white"/>
 
 </p>
 
@@ -152,18 +166,22 @@ Building scalable backend systems, AI-powered products, and cloud-native applica
 
 <p align="center">
 
+<!-- Core Backend & AI Focus -->
 <img src="https://skillicons.dev/icons?i=go"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
 <img src="https://skillicons.dev/icons?i=python"/>
-
+<img src="https://skillicons.dev/icons?i=ts"/>
 <img src="https://skillicons.dev/icons?i=docker"/>
-
 <img src="https://skillicons.dev/icons?i=kubernetes"/>
-
 <img src="https://skillicons.dev/icons?i=aws"/>
 
+</p>
+
+<p align="center">
+<!-- AI Tooling -->
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-FF4500?style=for-the-badge&logo=probot&logoColor=white"/>
 </p>
 
 ---
