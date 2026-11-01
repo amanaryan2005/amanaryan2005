@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Developer;AI+Engineer;RAG+%7C+LangChain+%7C+LlamaIndex;Go+%7C+Python+%7C+TypeScript;Building+Scalable+AI+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Developer;AI+Engineer;RAG+%7C+LangChain+%7C+LlamaIndex;FastAPI+%7C+Claude+AI;Product+Management+%7C+Go+%7C+Python" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,8 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-38BDF8?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Specialty-RAG%20Pipelines-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stack-Go%20%7C%20Python%20%7C%20TS-0EA5E9?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack-FastAPI%20%7C%20Go%20%7C%20TS-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mindset-Product%20Management-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
 </p>
 
 </div>
@@ -29,19 +30,21 @@
 <td width="50%" valign="top">
 
 ### 💡 What I Do
-- 🔧 **Backend Engineering** — scalable APIs & microservices
-- 🤖 **AI Engineering** — agents, RAG, LLM orchestration
+- 🔧 **Backend Engineering** — scalable APIs & microservices with **FastAPI** & Go
+- 🤖 **AI Engineering** — agents, RAG, LLM orchestration (**Claude AI**, OpenAI)
 - ☁️ **Cloud Infrastructure** — Docker, Kubernetes, AWS
 - 📦 **Distributed Systems** — event-driven, low-latency
+- 📊 **Product Management** — roadmaps, user-centric design, product-led growth
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 Currently Exploring
-- 🧠 **RAG & Vector Databases**
+- 🧠 **Advanced RAG & Vector Databases**
 - 🔗 **LangChain & LlamaIndex**
+- 🦾 **Claude AI (Anthropic) Integrations**
 - ⚡ **Go & Kubernetes**
-- 🏗️ **System Design**
+- 🏗️ **System Design & Product Strategy**
 
 </td>
 </tr>
@@ -52,9 +55,10 @@
 ### 🎯 2026 Goals
 <img src="https://img.shields.io/badge/Build_AI_SaaS-38BDF8?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Master_RAG_%26_LangChain-8B5CF6?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Master_Backend-0EA5E9?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Crack_GATE_CSE-F59E0B?style=flat-square&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open_Source-22C55E?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Master_Backend-FastAPI-0EA5E9?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Product_Management-F59E0B?style=flat-square&logo=producthunt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Crack_GATE_CSE-22C55E?style=flat-square&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white"/>
 
 </div>
 
@@ -95,6 +99,11 @@
 ### 🛠️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
 </div>
 
 <div align="center">
@@ -116,10 +125,23 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </td>
 <td align="center" width="120">
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</td>
+<td align="center" width="120">
 <img src="https://img.shields.io/badge/CrewAI-4B0082?style=for-the-badge&logo=probot&logoColor=white"/>
 </td>
 </tr>
 </table>
+
+</div>
+
+<div align="center">
+
+### 📊 Product Management
+<img src="https://img.shields.io/badge/Product_Led_Growth-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agile_%26_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Roadmapping-8B5CF6?style=for-the-badge&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/User_Research-38BDF8?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 
 </div>
 
@@ -180,14 +202,15 @@
 
 ## 🚀 Featured Stack
 
-<img src="https://skillicons.dev/icons?i=go,python,ts,docker,kubernetes,aws" />
+<img src="https://skillicons.dev/icons?i=go,python,fastapi,docker,kubernetes,aws" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Agents-FF4500?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Product_Management-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
 
 </div>
 
