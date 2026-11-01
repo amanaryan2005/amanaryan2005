@@ -66,98 +66,38 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/>
-  About Me
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/>
-</h2>
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-
-<td width="48%" valign="top">
-
-```yaml
-developer:
-  name: Aman Kumar
-  title: Software Engineer & AI Architect
-  mindset: Product-First Engineering
-  systems:
-    - High-Throughput Microservices
-    - Event-Driven Pipelines
-    - Multi-Agent Orchestration
-  core_stack:
-    backend: [Go, FastAPI, Node.js, PostgreSQL, Redis]
-    ai_infra: [CrewAI, LangChain, Qdrant, Pinecone]
-    devops: [Docker, Kubernetes, AWS, GitHub Actions]
-    frontend: [React, TypeScript, Tailwind CSS]
-```
-
-</td>
-
-<td width="52%" valign="top">
-
-### 🧭 What I Do
-
-* ⚡ **High-Throughput Backends & Microservices**  
-  Architecting fault-tolerant, low-latency APIs and execution engines using **Go**, **FastAPI**, and **PostgreSQL** with caching layers powered by **Redis**.
-
-* 🤖 **Autonomous AI Agents & Production RAG**  
-  Building intelligent agent meshes and contextual RAG pipelines with **LangChain**, **CrewAI**, and vector storage (**Qdrant / ChromaDB**) to automate complex multi-step workflows.
-
-* ☁️ **Cloud-Native Infrastructure & DevOps**  
-  Containerizing distributed applications via **Docker**, configuring **Kubernetes** topologies, and establishing robust automated CI/CD pipelines.
-
-* 💡 **Product-Led Engineering**  
-  Bridging rigorous engineering with intuitive product metrics—turning technical capabilities into scalable, sticky SaaS solutions with rapid iteration cycles.
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    2026 GOALS ROADMAP                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/>
   2026 Roadmap
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/>
 </h2>
 
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/1-Build%20AI%20SaaS-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_1-Build_AI_SaaS-38BDF8?style=for-the-badge"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/2-Master%20RAG%20%26%20Agents-8B5CF6?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_2-Master_RAG_%26_Agents-8B5CF6?style=for-the-badge"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/3-Scale%20Distributed%20FastAPI-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_3-Scale_Distributed_FastAPI-0EA5E9?style=for-the-badge"/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/4-Product--Led%20Growth-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_4-Product_Led_Growth-F59E0B?style=for-the-badge"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/5-Advanced%20System%20Design-22C55E?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_5-Crack_GATE_CSE-22C55E?style=for-the-badge"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/6-High--Impact%20Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_6-High_Impact_Open_Source-181717?style=for-the-badge"/>
 </td>
 </tr>
 </table>
@@ -231,7 +171,7 @@ developer:
 <br/><sub><b>Dense Retrieval</b></sub>
 </td>
 <td align="center" width="115">
-<img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <br/><sub><b>Anthropic</b></sub>
 </td>
 <td align="center" width="115">
@@ -252,16 +192,16 @@ developer:
 <table>
 <tr>
 <td align="center" width="160">
-<img src="https://img.shields.io/badge/Product--Led%20Growth-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Product_Led_Growth-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
 </td>
 <td align="center" width="160">
-<img src="https://img.shields.io/badge/Distributed%20Systems-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </td>
 <td align="center" width="160">
-<img src="https://img.shields.io/badge/API%20Architecture-8B5CF6?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Architecture-8B5CF6?style=for-the-badge&logo=postman&logoColor=white"/>
 </td>
 <td align="center" width="160">
-<img src="https://img.shields.io/badge/User%20Telemetry-38BDF8?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/User_Telemetry-38BDF8?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </td>
 </tr>
 </table>
