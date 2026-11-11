@@ -1,243 +1,306 @@
-<div align="center">
+::: {align="center"}
+```{=html}
+<!-- HEADER -->
+```
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:7C3AED&height=230&section=header&text=Aman%20Kumar&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Backend%20Developer&descSize=17&descAlignY=58&animation=fadeIn"/>`{=html}
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+`<a href="https://git.io/typing-svg">`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Intelligent+Software+Systems;Backend+Engineering+%7C+Distributed+Systems;AI+Agents+%7C+RAG+%7C+LLM+Engineering;Go+%7C+Python+%7C+TypeScript;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG"/>`{=html}
+`</a>`{=html}
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Developer;AI+Engineer;RAG+%7C+LangChain+%7C+LlamaIndex;FastAPI+%7C+Claude+AI;Product+Management+%7C+Go+%7C+Python" alt="Typing SVG" />
-</a>
+`<br/>`{=html}
 
-<br/>
+`<img src="https://komarev.com/ghpvc/?username=amanaryan2005&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>`{=html}
+`<img src="https://img.shields.io/github/followers/amanaryan2005?style=for-the-badge&color=7C3AED&label=FOLLOWERS"/>`{=html}
+`<img src="https://img.shields.io/github/stars/amanaryan2005?style=for-the-badge&color=F59E0B&label=TOTAL+STARS"/>`{=html}
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-38BDF8?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Specialty-RAG%20Pipelines-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stack-FastAPI%20%7C%20Go%20%7C%20TS-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mindset-Product%20Management-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
-</p>
+`<br/>`{=html}`<br/>`{=html}
 
-</div>
+**Engineering scalable backends. Building intelligent AI systems.
+Creating products that matter.**
+:::
 
----
+------------------------------------------------------------------------
 
-<div align="center">
+## 👨‍💻 About Me
 
-## 🚀 About Me
+I'm an Information Technology graduate passionate about **Software
+Engineering, Backend Architecture, and Artificial Intelligence**.
 
-</div>
+I enjoy building scalable applications, designing backend systems, and
+experimenting with LLM-powered applications that solve real-world
+problems.
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+``` yaml
+name: Aman Kumar
+role: Software Engineer | AI Engineer
+location: India
 
-### 💡 What I Do
-- 🔧 **Backend Engineering** — scalable APIs & microservices with **FastAPI** & Go
-- 🤖 **AI Engineering** — agents, RAG, LLM orchestration (**Claude AI**, OpenAI)
-- ☁️ **Cloud Infrastructure** — Docker, Kubernetes, AWS
-- 📦 **Distributed Systems** — event-driven, low-latency
-- 📊 **Product Management** — roadmaps, user-centric design, product-led growth
+interests:
+  - Backend Engineering
+  - Artificial Intelligence
+  - LLM Engineering
+  - AI Agents & RAG Systems
+  - Distributed Systems
+  - System Design
 
-</td>
-<td width="50%" valign="top">
+currently_exploring:
+  - Advanced RAG Architectures
+  - Agentic AI & Multi-Agent Systems
+  - Go & Microservices
+  - LLM Application Development
+  - Cloud-Native Architecture
 
-### 🌱 Currently Exploring
-- 🧠 **Advanced RAG & Vector Databases**
-- 🔗 **LangChain & LlamaIndex**
-- 🦾 **Claude AI (Anthropic) Integrations**
-- ⚡ **Go & Kubernetes**
-- 🏗️ **System Design & Product Strategy**
+languages:
+  - Go
+  - Python
+  - TypeScript
+  - JavaScript
+```
 
-</td>
-</tr>
-</table>
+### ⚡ What I Bring to the Table
 
-<div align="center">
-
-### 🎯 2026 Goals
-<img src="https://img.shields.io/badge/Build_AI_SaaS-38BDF8?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Master_RAG_%26_LangChain-8B5CF6?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Master_Backend-FastAPI-0EA5E9?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Product_Management-F59E0B?style=flat-square&logo=producthunt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Crack_GATE_CSE-22C55E?style=flat-square&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/amankrs2005">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:amankrs2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/amanaryan2005">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Tech Stack
-
-</div>
-
-<div align="center">
-
-### 🧑‍💻 Languages
-<img src="https://skillicons.dev/icons?i=go,ts,js,python,c,cpp" />
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
-
-### 🛠️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-</div>
-
-<div align="center">
-
-### 🧠 AI / LLM Engineering
-
+```{=html}
 <table>
+```
+```{=html}
 <tr>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🏗️ Software Engineering
+
+-   RESTful API Development
+-   Backend Architecture
+-   Microservices
+-   Database Design
+-   Distributed Systems
+-   System Design
+
+```{=html}
 </td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🧠 AI Engineering
+
+-   Large Language Models
+-   Retrieval-Augmented Generation
+-   AI Agents
+-   Vector Databases
+-   LLM Orchestration
+-   Intelligent Applications
+
+```{=html}
 </td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/CrewAI-4B0082?style=for-the-badge&logo=probot&logoColor=white"/>
-</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### ☁️ Cloud & Infrastructure
+
+-   Docker & Kubernetes
+-   CI/CD Pipelines
+-   Cloud Deployment
+-   Redis & Background Jobs
+-   PostgreSQL
+-   AWS
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 📦 Product Engineering
+
+-   Product Development
+-   API Integration
+-   User-Centric Design
+-   Agile Methodologies
+-   Problem Solving
+-   Technical Documentation
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
 </table>
+```
 
-</div>
+------------------------------------------------------------------------
 
-<div align="center">
+## 💼 Professional Experience
 
-### 📊 Product Management
-<img src="https://img.shields.io/badge/Product_Led_Growth-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agile_%26_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Roadmapping-8B5CF6?style=for-the-badge&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/User_Research-38BDF8?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+**Software Engineering Intern --- Reasoned Trading**
 
-</div>
+-   Worked with React and TypeScript for frontend development.
+-   Developed backend functionality using Go.
+-   Worked with PostgreSQL for database operations.
+-   Contributed to software engineering workflows.
 
-<div align="center">
+**Frontend Engineer Intern --- Yovarc**
 
-### 🗄️ Databases & Vector Stores
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-0284C7?style=for-the-badge&logo=qdrant&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FFB000?style=for-the-badge&logo=chroma&logoColor=black"/>
+-   Developed responsive web applications using React.
+-   Integrated REST APIs into frontend applications.
+-   Worked on reusable UI components and application interfaces.
+
+------------------------------------------------------------------------
+
+## 🚀 Featured Projects
+
+::: {align="center"}
+`<a href="https://github.com/amanaryan2005">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanaryan2005&repo=Software-Engineering-Assesment&theme=tokyonight&hide_border=true&bg_color=0D1117"/>`{=html}
+`</a>`{=html}
+:::
+
+### 🤖 AI & LLM Applications
+
+-   **DocuMind:** Document intelligence application using FastAPI,
+    PostgreSQL, and vector search.
+-   **Gemini Bot:** AI chatbot built with Python, FastAPI, Streamlit,
+    and Gemini API.
+-   **Vernacular AI:** AI-powered application focused on accessible user
+    experiences.
+
+### ⚙️ Backend Development
+
+-   REST API development and authentication.
+-   Asynchronous task processing.
+-   Database integration and optimization.
+-   Scalable backend application architecture.
+
+------------------------------------------------------------------------
+
+## 🧰 Technology Arsenal
+
+::: {align="center"}
+### 💻 Programming Languages
+
+`<img src="https://skillicons.dev/icons?i=go,python,ts,js,c,cpp&theme=dark"/>`{=html}
+
+### 🎨 Frontend Development
+
+`<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark"/>`{=html}
+
+### ⚙️ Backend Development
+
+`<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,go&theme=dark"/>`{=html}
+
+### 🧠 AI & LLM Engineering
+
+`<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/CrewAI-4B0082?style=for-the-badge&logo=probot&logoColor=white"/>`{=html}
+
+### 🗄️ Databases & Vector Search
+
+`<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark"/>`{=html}
+
+`<br/>`{=html}
+
+`<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/ChromaDB-FFB000?style=for-the-badge&logo=databricks&logoColor=black"/>`{=html}
 
 ### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,vercel,netlify" />
 
-### 🔧 Tools
-<img src="https://skillicons.dev/icons?i=postman,jira,vscode" />
+`<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,vercel&theme=dark"/>`{=html}
 
-</div>
+### 🔧 Development Tools
 
----
+`<img src="https://skillicons.dev/icons?i=vscode,postman,linux,github,jira&theme=dark"/>`{=html}
+:::
 
-<div align="center">
+------------------------------------------------------------------------
 
 ## 📊 GitHub Analytics
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amanaryan2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=ffffff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaryan2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff" />
+::: {align="center"}
+`<img height="180" src="https://github-readme-stats.vercel.app/api?username=amanaryan2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github"/>`{=html}
 
-<br/>
+`<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaryan2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF"/>`{=html}
 
-<img src="https://streak-stats.demolab.com?user=amanaryan2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=8B5CF6&fire=F59E0B&currStreakLabel=38BDF8" />
+`<br/>`{=html}`<br/>`{=html}
 
-</div>
+`<img width="75%" src="https://streak-stats.demolab.com?user=amanaryan2005&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=38BDF8"/>`{=html}
+:::
 
----
+------------------------------------------------------------------------
 
-<div align="center">
+## 📈 Contribution Activity
 
-## 🏆 GitHub Trophies
+::: {align="center"}
+`<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanaryan2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=F59E0B"/>`{=html}
+:::
 
-<img src="https://github-profile-trophy.vercel.app/?username=amanaryan2005&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+------------------------------------------------------------------------
 
-</div>
+## 🏆 GitHub Achievements
 
----
+::: {align="center"}
+`<img width="95%" src="https://github-profile-trophy.vercel.app/?username=amanaryan2005&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15"/>`{=html}
+:::
 
-<div align="center">
+------------------------------------------------------------------------
 
-## 📊 Contribution Graph
+## 🎯 My 2026 Roadmap
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanaryan2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=F59E0B" width="100%"/>
+  Area                Focus
+  ------------------- ---------------------------------------------------
+  🤖 AI Engineering   Advanced RAG, AI Agents, LLM Applications
+  ⚙️ Backend          Go, Microservices, Distributed Systems
+  ☁️ Cloud            Docker, Kubernetes, AWS
+  🧠 System Design    Scalable Architecture, Database Design
+  🚀 Products         Build and launch AI-powered products
+  🌍 Open Source      Meaningful contributions to developer communities
 
-</div>
+------------------------------------------------------------------------
 
----
+## 🌐 Let's Connect
 
-<div align="center">
+::: {align="center"}
+`<a href="https://www.linkedin.com/in/amankrs2005/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-## 🚀 Featured Stack
+`<a href="mailto:amankrs2005@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-<img src="https://skillicons.dev/icons?i=go,python,fastapi,docker,kubernetes,aws" />
+`<a href="https://github.com/amanaryan2005">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-<br/>
+`<br/>`{=html}`<br/>`{=html}
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Product_Management-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white"/>
+**Open to learning, collaboration, and building impactful technology.**
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
+::: {align="center"}
+### 💭 Developer Philosophy
 
-<div align="center">
+*"Great software isn't just written. It's engineered, optimized, and
+continuously improved."*
 
-## ✨ Dev Quote of the Day
+`<br/>`{=html}
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=amanaryan2005&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-### ⭐ Thanks for visiting my profile!
-
-<i>"Building scalable software today for the intelligent systems of tomorrow."</i>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:7C3AED&height=120&section=footer"/>`{=html}
+:::
